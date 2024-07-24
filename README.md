@@ -19,7 +19,7 @@ Four publicly available ST datasets were used in this study.
 -  Human Breast Cancer2 (BC2) dataset includes a formalin-fixed invasive breast carcinoma tissue section sample, with 2518 sampled spots. The datasets are available in https://www.10xgenomics.com/datasets/human-breast-cancer-ductal-carcinoma-in-situ-invasive-carcinoma-ffpe-1-standard-1-3-0
 
 ## HisToSGE pipeline
-
+- Install the UNI module form https://github.com/mahmoodlab/UNI.
 - Run `train.py`
 - Run `test.py`
 
